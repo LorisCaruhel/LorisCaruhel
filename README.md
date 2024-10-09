@@ -1,16 +1,32 @@
-## Hi there 👋
+ # Salut ! Je m'appelle Loris ! 
 
-<!--
-**LorisCaruhel/LorisCaruhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :wrench: Mes compétences :
 
-Here are some ideas to get you started:
+### :globe_with_meridians: En web :
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,bootstrap,figma&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :keyboard: En scripting : 
+[![My Skills](https://skillicons.dev/icons?i=php,bash,python,c,docker&theme=dark)](https://skillicons.dev)
+
+### OS :
+[![My Skills](https://skillicons.dev/icons?i=linux,windows&theme=dark)](https://skillicons.dev)
+
+### Autre :
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,npm&theme=dark)](https://skillicons.dev)
+
+### Logiciel :
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,phpstorm,vite,eclipse,github,vercel&theme=dark)](https://skillicons.dev)
+
+### :part_alternation_mark: my stats
+
+<picture>
+    <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=LorisCaruhel&theme=dark"
+    media="(prefers-color-scheme: dark)"
+    />
+    <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=LorisCaruhel"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorisCaruhel" />
+</picture>
