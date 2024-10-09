@@ -31,5 +31,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorisCaruhel" />
 </picture>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LorisCaruhel&theme=dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorisCaruhel&layout=compact&theme=dark" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LorisCaruhel&theme=dark&show_icons=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorisCaruhel&layout=compact&theme=dark" /></a> |
 | ------------- | ------------- |
