@@ -1,11 +1,11 @@
  # Salut ! Je m'appelle Loris ! 
 
-## :wrench: Mes compétences :
+## 🛠️ Mes compétences :
 
-### :globe_with_meridians: En web :
+### En web :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,bootstrap,figma&theme=dark)](https://skillicons.dev)
 
-### :keyboard: En scripting : 
+### En scripting : 
 [![My Skills](https://skillicons.dev/icons?i=php,bash,python,c,docker&theme=dark)](https://skillicons.dev)
 
 ### OS :
