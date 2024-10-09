@@ -1,4 +1,4 @@
- # Salut ! Je m'appelle Loris ! 
+# Salut ! Je m'appelle Loris ! 
 
 ## 🛠️ Mes compétences :
 
@@ -17,7 +17,7 @@
 ### Logiciel :
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,phpstorm,vite,eclipse,github,vercel&theme=dark)](https://skillicons.dev)
 
-### :part_alternation_mark: my stats
+### :part_alternation_mark: Mes stats
 
 <picture>
     <source 
